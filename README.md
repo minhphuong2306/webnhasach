@@ -16,5 +16,5 @@
 <li>Liên hệ
 <li>Giới thiệu
  <ul>Mô tả
- <ul>Ứng dụng này giúp cho người mua hàng dễ dàng tiếp cận hơn về sách một cách thụ động có thể ở nhà mua online trực tuyến mà không cần ra khỏi nhà
+ <ul>Ứng dụng là một trang web bán sách trực truyến. Giúp mọi người có thể tiết kiệm thời gian hơn thay vì bạn phải tìm một nhà sách nào đó gần bạn để lựa chọn sách. Trong khi đó bạn có thể lên web bán sách tìm hiểu lựa chọn sách phù hợp với nhu cầu với bạn và đặt mua nó mà không cần phải tới nhà sách
  
