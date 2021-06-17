@@ -1,4 +1,4 @@
-# Nhóm 28 - Đề tài Web bán sách
+# Nhóm 29 - Đề tài Web bán sách
 ## Danh sách thành viên 
 <li>Thành viên 1: Võ Nguyễn Minh Phương 17dh110556
 <li>Thành viên 2: Nguyễn Thị Thùy Linh 17dh110555
